@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 moduls/seting.py
 moduls/__init__.py
-moduls/setting.py
+moduls/config.py

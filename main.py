@@ -2,7 +2,7 @@ import requests
 import random
 import telebot
 from bs4 import BeautifulSoup as bs
-from moduls.setting import TOKEN
+from config import TOKEN
 
 URL = 'https://www.anekdot.ru/last/good'
 
