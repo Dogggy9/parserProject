@@ -153,3 +153,4 @@ cython_debug/
 moduls/seting.py
 moduls/__init__.py
 moduls/config.py
+config.py
